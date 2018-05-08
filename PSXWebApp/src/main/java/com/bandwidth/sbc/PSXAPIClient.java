@@ -48,7 +48,7 @@ public class PSXAPIClient
            {
 
      		// psxName = connectionProperties.getName();
-			psxName = "labpsx03";              //  host-name of the PSX of interest
+			psxName = "labpsx01";              //  host-name of the PSX of interest
 			
 			final URL serverUrl = new URL("http://192.168.125.25/emsapi/services/PSXAPI/r10_00_00?wsdl");
 			
