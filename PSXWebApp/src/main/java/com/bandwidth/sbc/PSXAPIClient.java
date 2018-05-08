@@ -230,7 +230,7 @@ public class PSXAPIClient
 	   // put is not required in my code
 	   
 	   
-/*
+
 	   public void putEntity(final ManagedEntityValue managedEntityValueIn) throws Exception
 	   {
 	      putEntity(managedEntityValueIn, psxName);
@@ -273,7 +273,7 @@ public class PSXAPIClient
 	      // log.info("SUCCESS: called putEntity");
 	   }
 
-*/ 
+ 
 	   
 	   
 	   // deleting a trunk group
