@@ -59,9 +59,12 @@ public class PSXAPIClient
 	         //the user needs to be a user with appropriate access privileges for the operation to be performed
 	         final SOAPHeaderElement user = new SOAPHeaderElement("", "USER");
 	         user.setObjectValue("<Enter appropriate username>");
+		 // Enter appropriate username in string	
 			
 		  	 final SOAPHeaderElement passwd = new SOAPHeaderElement("", "PASSWORD");
 	         passwd.setObjectValue("<Enter appropriate password>");
+		
+		// Enter appropriate password in string
 
 	         psxApi.setHeader(user);
 	         psxApi.setHeader(passwd);
