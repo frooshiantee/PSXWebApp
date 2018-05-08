@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="target/generated-sources/axistools/wsdl2java">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/org.apache.axis_1.4.0.v201411182030/lib/axis.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/javax.xml.rpc_1.1.0.v201209140446/lib/jaxrpc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/javax.wsdl_1.6.2.v201012040545.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cfernado/.p2/pool/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/webservices-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/webservices-extra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/webservices-extra-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/webservices-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/webservices-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/databinding/jaxws-eclipselink-plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/metro-standalone-2.3.1/metro/lib/databinding/sdo-eclipselink-plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-bin/commons-fileupload-1.3.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-lang3-3.7-bin/commons-lang3-3.7/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cfernado/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-test-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
