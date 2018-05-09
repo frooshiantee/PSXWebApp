@@ -4,4 +4,4 @@
 
 
 
-**URL to view the appropriate WSDL file of the AXIS server**   http://192.168.125.25/emsapi/services/PSXAPI/r10_00_00?wsdl
+**URL to view the appropriate WSDL file of the lab PSX AXIS server**   http://192.168.125.25/emsapi/services/PSXAPI/r10_00_00?wsdl
